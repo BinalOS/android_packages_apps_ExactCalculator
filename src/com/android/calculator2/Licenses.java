@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2015 The Android Open Source Project
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 package com.android.calculator2;
 
 import android.os.Bundle;
